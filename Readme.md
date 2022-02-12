@@ -4,7 +4,6 @@ Psycho Art NFT MarketPlace
 
 This is a NFT Marketplace made for artists where they can come and create, sell and buy NFTs.
 
-![Chat Preview](http://i.imgur.com/lgRe8z4.png)
 
 ---
 
